@@ -1,0 +1,23 @@
+
+{
+  "name": "QWERTY with Shortcuts",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "QWERTY plus shortcuts mapped to disabled Alt key",
+  "background":  {
+    "scripts": ["main.js"]
+  },
+  "permissions": [
+    "input"
+  ],
+  "input_components": [
+    {
+      "name": "QWERTY with Shortcuts",
+      "type": "ime",
+      "id": "qwertyshortcuts",
+      "description": "QWERTY with Shortcuts",  // A user visible description
+      "language": "en-US",  // The primary language this IME is used for
+      "layouts": ["us::eng"]  // The supported keyboard layouts for this IME
+    }
+  ]
+}

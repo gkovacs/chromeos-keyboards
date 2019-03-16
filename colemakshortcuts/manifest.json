@@ -1,0 +1,23 @@
+
+{
+  "name": "Colemak with Shortcuts",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Colemak plus shortcuts mapped to disabled Alt key",
+  "background":  {
+    "scripts": ["main.js"]
+  },
+  "permissions": [
+    "input"
+  ],
+  "input_components": [
+    {
+      "name": "Colemak with Shortcuts",
+      "type": "ime",
+      "id": "colemakshortcuts",
+      "description": "Colemak with Shortcuts",  // A user visible description
+      "language": "en-US",  // The primary language this IME is used for
+      "layouts": ["us::eng"]  // The supported keyboard layouts for this IME
+    }
+  ]
+}
