@@ -15,6 +15,7 @@
       "name": "Colemak with Shortcuts",
       "type": "ime",
       "id": "colemakshortcuts",
+      "indicator": "C",
       "description": "Colemak with Shortcuts",  // A user visible description
       "language": "en-US",  // The primary language this IME is used for
       "layouts": ["us::eng"]  // The supported keyboard layouts for this IME

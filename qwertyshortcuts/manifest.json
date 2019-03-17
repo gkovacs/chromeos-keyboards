@@ -15,6 +15,7 @@
       "name": "QWERTY with Shortcuts",
       "type": "ime",
       "id": "qwertyshortcuts",
+      "indicator": "Q",
       "description": "QWERTY with Shortcuts",  // A user visible description
       "language": "en-US",  // The primary language this IME is used for
       "layouts": ["us::eng"]  // The supported keyboard layouts for this IME
