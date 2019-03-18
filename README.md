@@ -24,7 +24,9 @@ enable.
 6. Add the keyboard Colemak with Shortcuts or QWERTY with Shortcuts
 7. Select keyboard layout  Colemak with Shortcuts or QWERTY with Shortcuts
 
-## colemakshortcuts
+## Keyboard Layouts
+
+### colemakshortcuts
 
 This input method adds the Colemak keyboard layout to ChromeOS. The Colemak layout is described at https://colemak.com/ . The procedure for adding a keyboard layout to ChromeOS and using it is described in the installation section.
 
@@ -32,7 +34,7 @@ This keyboard layout will be Colemak when typing letters. It will keep the short
 
 This provides the Colemak keyboard layout with various shortcuts
 
-## qwertyshortcuts
+### qwertyshortcuts
 
 This provides the QWERTY keyboard layout with various shortcuts
 
