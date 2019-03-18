@@ -2,6 +2,18 @@
 
 Input methods providing shortcuts for ChromeOS. They can be loaded as extensions.
 
+## Keyboard Layouts
+
+### colemakshortcuts
+
+This input method adds the Colemak keyboard layout to ChromeOS, including various shortcuts. The Colemak layout is described at https://colemak.com/ . The procedure for adding a keyboard layout to ChromeOS and using it is described in the installation section.
+
+This keyboard layout will be Colemak when typing letters. It will keep the shortcut keys (ie ctrl+f) as QWERTY however. Additionally, if you disable the Alt key, then it will create some additional combinations with the Alt key, which are described in the shortcuts section.
+
+### qwertyshortcuts
+
+This adds the QWERTY keyboard layout to ChromeOS, including various shortcuts. The procedure for adding a keyboard layout to ChromeOS and using it is described in the installation section.
+
 ## Installation
 ### Chrome Store
 
@@ -23,20 +35,6 @@ enable.
 5. Go to chrome://settings/languages.
 6. Add the keyboard Colemak with Shortcuts or QWERTY with Shortcuts
 7. Select keyboard layout  Colemak with Shortcuts or QWERTY with Shortcuts
-
-## Keyboard Layouts
-
-### colemakshortcuts
-
-This input method adds the Colemak keyboard layout to ChromeOS. The Colemak layout is described at https://colemak.com/ . The procedure for adding a keyboard layout to ChromeOS and using it is described in the installation section.
-
-This keyboard layout will be Colemak when typing letters. It will keep the shortcut keys (ie ctrl+f) as QWERTY however. Additionally, if you disable the Alt key, then it will create some additional combinations with the Alt key, which are described in the shortcuts section.
-
-This provides the Colemak keyboard layout with various shortcuts
-
-### qwertyshortcuts
-
-This provides the QWERTY keyboard layout with various shortcuts
 
 ## Shortcut list
 
