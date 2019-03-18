@@ -48,6 +48,7 @@ When you switch to the input method, you can then use the shortcuts.
 
 ### Arrow keys
 
+```
 Down Alt+d
 
 Up Alt+e
@@ -59,9 +60,11 @@ Left Alt+s
 Home Alt+a
 
 End Alt+g
+```
 
 ### Punctuation
 
+```
 ~ Alt+z
 
 + Alt+x
@@ -71,6 +74,7 @@ _ Alt+c
 = Alt+v
 
 - Alt+b
+```
 
 ### License
 
