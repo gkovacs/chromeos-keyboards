@@ -11,9 +11,7 @@ This is currently getting repeatedly rejected from the Chrome store so no link y
 2. Logout and then login again. (This may not be necessary.)
 3. Go to chrome://settings/languages.
 4. Add the keyboard Colemak with Shortcuts or QWERTY with Shortcuts
-5. Select the relevant keyboard layout and input method.
-6. Optionally, remove any keyboard layouts or input methods that are no longer
-required.
+5. Select keyboard layout  Colemak with Shortcuts or QWERTY with Shortcuts
 
 ### GitHub
 
@@ -24,9 +22,7 @@ enable.
 4. Logout and then login again. (This may not be necessary.)
 5. Go to chrome://settings/languages.
 6. Add the keyboard Colemak with Shortcuts or QWERTY with Shortcuts
-7. Select the relevant keyboard layout and input method.
-8. Optionally, remove any keyboard layouts or input methods that are no longer
-required.
+7. Select keyboard layout  Colemak with Shortcuts or QWERTY with Shortcuts
 
 ## colemakshortcuts
 
